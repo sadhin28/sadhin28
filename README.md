@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">I'm Taosif Bin Sadhin.</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,6 +37,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"  />
 
