@@ -46,10 +46,6 @@ With a keen eye for design and a problem-solving mindset, I strive to build seam
 
 <div align="center">
 
-🔭 Public Repositories: 11
-👥 Followers: 0
-👤 Following: 1
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadhin28&show_icons=true&theme=radical)
 
 
