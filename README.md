@@ -50,7 +50,6 @@ With a keen eye for design and a problem-solving mindset, I strive to build seam
 
 
 ###
-[![](https://nirzak-streak-stats.vercel.app/?user=sadhin28)](https://git.io/streak-stats)
 
 </div>
 
