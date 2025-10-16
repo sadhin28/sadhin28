@@ -46,7 +46,7 @@ With a keen eye for design and a problem-solving mindset, I strive to build seam
 
 <div align="center">
 
-![sadhin28's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadhin28&theme=vue-dark&hide_border=false)
+!(https://github-readme-streak-stats.herokuapp.com/?user=sadhin28&theme=vue-dark&hide_border=false)
 
 
 ###
